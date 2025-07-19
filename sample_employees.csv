@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,full_name,email,phone,department,position,salary,hire_date,city,state,zip_code,is_active,manager_id,performance_score,years_experience,education_level,remote_work
+EMP0001,Edward,Rivera,Edward Rivera,edward.rivera@company.com,+1-445-663-6391,Sales,Data Analyst,125225,2023-09-29,San Jose,CA,38655,True,,4.1,15,Bachelor's,False
+EMP0002,Edward,Carter,Edward Carter,edward.carter@company.com,+1-219-455-4904,Sales,Marketing Manager,41137,2025-05-11,Denver,MI,59910,True,EMP0002,2.9,9,Master's,True
+EMP0003,Donald,Lopez,Donald Lopez,donald.lopez@company.com,+1-873-819-5539,Finance,HR Specialist,144311,2021-08-25,Phoenix,TN,93748,True,EMP0002,4.3,5,Master's,True
+EMP0004,David,Martin,David Martin,david.martin@company.com,+1-235-557-2049,Customer Service,Project Manager,137130,2020-09-01,Nashville,GA,68864,True,EMP0001,2.6,9,Bachelor's,True
+EMP0005,Rachel,King,Rachel King,rachel.king@company.com,+1-749-460-5409,Operations,Marketing Coordinator,110432,2022-02-26,Milwaukee,MA,13519,True,EMP0004,3.9,1,Bachelor's,False
+EMP0006,Lisa,Allen,Lisa Allen,lisa.allen@company.com,+1-765-797-5039,Administration,Senior Developer,62179,2025-05-15,Seattle,IL,72909,True,EMP0006,3.9,4,Master's,False
+EMP0007,John,Jones,John Jones,john.jones@company.com,+1-460-799-7434,Quality Assurance,Team Lead,96781,2024-03-26,El Paso,NY,66836,True,EMP0003,3.1,3,PhD,True
+EMP0008,Lisa,Jones,Lisa Jones,lisa.jones@company.com,+1-676-748-8618,Finance,Senior Developer,55398,2022-01-09,Albuquerque,CA,24737,True,EMP0007,2.7,14,High School,True
+EMP0009,Jason,Green,Jason Green,jason.green@company.com,+1-704-225-6365,Information Technology,Operations Manager,61131,2023-01-27,Tucson,NJ,68413,True,EMP0005,4.5,9,Bachelor's,False
+EMP0010,Amy,Hill,Amy Hill,amy.hill@company.com,+1-717-140-1183,Information Technology,Data Analyst,126935,2025-04-13,Baltimore,AZ,22826,False,EMP0010,3.1,1,High School,False
+EMP0011,Sandra,Roberts,Sandra Roberts,sandra.roberts@company.com,+1-969-790-3641,Quality Assurance,Sales Representative,69209,2023-11-18,Phoenix,IN,14864,True,EMP0007,4.0,9,PhD,True
+EMP0012,Sandra,Miller,Sandra Miller,sandra.miller@company.com,+1-811-215-3196,Research and Development,Business Analyst,143256,2024-01-05,Portland,VA,52937,True,EMP0007,4.6,4,Master's,True
+EMP0013,Matthew,Martinez,Matthew Martinez,matthew.martinez@company.com,+1-299-551-3218,Marketing,Business Analyst,108115,2025-05-27,Memphis,TN,73531,True,EMP0006,2.7,8,PhD,False
+EMP0014,Frances,Moore,Frances Moore,frances.moore@company.com,+1-979-370-3144,Administration,Marketing Manager,129983,2024-06-30,Columbus,AZ,97192,True,EMP0004,4.3,12,High School,True
+EMP0015,Steven,Gonzalez,Steven Gonzalez,steven.gonzalez@company.com,+1-720-942-6034,Finance,Team Lead,45185,2023-08-11,Indianapolis,OH,34457,False,EMP0006,4.0,13,High School,True
+EMP0016,Anthony,Brown,Anthony Brown,anthony.brown@company.com,+1-954-659-5146,Operations,Product Manager,89629,2024-07-01,Columbus,IN,25098,True,EMP0005,4.9,13,Master's,True
+EMP0017,Christopher,Jones,Christopher Jones,christopher.jones@company.com,+1-711-322-5295,Customer Service,Operations Manager,95875,2021-04-15,Boston,GA,16922,True,EMP0010,3.2,11,Master's,True
+EMP0018,Catherine,Adams,Catherine Adams,catherine.adams@company.com,+1-711-365-9468,Administration,Administrative Assistant,57893,2025-05-31,Chicago,MI,28239,True,EMP0002,4.4,7,Master's,True
+EMP0019,William,Smith,William Smith,william.smith@company.com,+1-690-344-9543,Research and Development,Senior Developer,104895,2022-12-28,San Jose,IL,24071,False,EMP0009,3.4,7,Bachelor's,False
+EMP0020,Brian,Moore,Brian Moore,brian.moore@company.com,+1-721-799-6894,Operations,Team Lead,40261,2023-10-31,Philadelphia,MI,43817,True,EMP0006,2.8,10,PhD,True
+EMP0021,John,Sanchez,John Sanchez,john.sanchez@company.com,+1-316-781-9427,Sales,Sales Representative,94012,2023-03-14,Washington,IN,99146,True,EMP0004,3.8,14,High School,False
+EMP0022,Carol,Lopez,Carol Lopez,carol.lopez@company.com,+1-714-661-7619,Administration,HR Specialist,65543,2020-12-17,San Jose,MI,26482,True,EMP0006,3.8,10,PhD,True
+EMP0023,Cynthia,Thomas,Cynthia Thomas,cynthia.thomas@company.com,+1-373-120-8266,Operations,Marketing Coordinator,93589,2022-03-20,Austin,NC,60327,True,EMP0008,4.6,14,PhD,True
+EMP0024,William,Moore,William Moore,william.moore@company.com,+1-310-475-1481,Marketing,Software Engineer,90417,2020-09-03,Oklahoma City,AZ,96929,False,EMP0010,4.2,12,Bachelor's,False
+EMP0025,Matthew,Rodriguez,Matthew Rodriguez,matthew.rodriguez@company.com,+1-778-233-9150,Operations,Accountant,85025,2023-04-05,Las Vegas,WI,69065,True,EMP0008,3.1,11,Master's,False
+EMP0026,David,Young,David Young,david.young@company.com,+1-461-445-1051,Human Resources,Accountant,47240,2023-05-10,Denver,TX,54140,False,EMP0005,3.5,6,Bachelor's,False
+EMP0027,Janet,Baker,Janet Baker,janet.baker@company.com,+1-697-253-1556,Information Technology,Customer Support Specialist,142592,2022-04-16,Tucson,MD,41206,True,EMP0005,3.2,9,High School,False
+EMP0028,Janet,Nguyen,Janet Nguyen,janet.nguyen@company.com,+1-412-840-7889,Finance,Business Analyst,125524,2023-09-21,Boston,WI,79314,True,EMP0006,2.6,3,High School,True
+EMP0029,William,Robinson,William Robinson,william.robinson@company.com,+1-946-419-3609,Administration,Software Engineer,139613,2025-05-23,Fresno,VA,87927,True,EMP0007,3.8,7,High School,True
+EMP0030,Timothy,Hill,Timothy Hill,timothy.hill@company.com,+1-837-651-5829,Administration,HR Specialist,59840,2023-04-09,El Paso,FL,43964,False,EMP0009,3.6,4,Master's,False
+EMP0031,Cynthia,Moore,Cynthia Moore,cynthia.moore@company.com,+1-826-222-4934,Human Resources,Customer Support Specialist,51344,2024-10-28,Phoenix,IN,53463,True,EMP0002,4.8,15,Bachelor's,True
+EMP0032,Amanda,Gonzalez,Amanda Gonzalez,amanda.gonzalez@company.com,+1-620-346-5112,Quality Assurance,HR Specialist,134569,2021-01-14,Austin,VA,72100,True,EMP0003,2.8,12,High School,True
+EMP0033,Jeffrey,Nguyen,Jeffrey Nguyen,jeffrey.nguyen@company.com,+1-386-433-7705,Research and Development,Operations Manager,134742,2022-08-02,El Paso,NY,76560,False,EMP0010,3.3,7,High School,True
+EMP0034,Kevin,Lewis,Kevin Lewis,kevin.lewis@company.com,+1-478-153-1503,Research and Development,Marketing Coordinator,141090,2024-03-02,Detroit,NY,82882,True,EMP0003,3.8,3,Bachelor's,True
+EMP0035,Kimberly,Campbell,Kimberly Campbell,kimberly.campbell@company.com,+1-886-444-6885,Finance,Data Analyst,86396,2022-11-22,Chicago,PA,14352,True,EMP0003,2.9,14,Bachelor's,False
+EMP0036,Lisa,Johnson,Lisa Johnson,lisa.johnson@company.com,+1-481-972-2282,Quality Assurance,Team Lead,61964,2023-01-12,Columbus,OH,92959,True,EMP0004,4.3,8,PhD,False
+EMP0037,Ruth,Campbell,Ruth Campbell,ruth.campbell@company.com,+1-958-451-4050,Finance,Operations Manager,149598,2024-04-08,Milwaukee,FL,66653,True,EMP0004,2.7,11,High School,True
+EMP0038,Lisa,Flores,Lisa Flores,lisa.flores@company.com,+1-510-769-7503,Research and Development,Software Engineer,138875,2022-01-07,San Jose,AZ,23136,True,EMP0008,4.6,15,High School,False
+EMP0039,Christopher,Mitchell,Christopher Mitchell,christopher.mitchell@company.com,+1-292-743-5308,Marketing,Product Manager,105594,2021-03-12,Indianapolis,TX,28435,False,EMP0001,2.9,6,Bachelor's,True
+EMP0040,Paul,Davis,Paul Davis,paul.davis@company.com,+1-672-276-9078,Finance,Sales Representative,57073,2022-12-07,Chicago,TN,94528,False,EMP0005,3.9,2,High School,True
+EMP0041,Kenneth,Carter,Kenneth Carter,kenneth.carter@company.com,+1-396-687-9172,Sales,Research Scientist,65531,2023-07-11,Chicago,NY,59784,True,EMP0003,4.5,13,Bachelor's,False
+EMP0042,Timothy,Anderson,Timothy Anderson,timothy.anderson@company.com,+1-722-452-4550,Marketing,Marketing Coordinator,111183,2024-07-07,Albuquerque,TX,20189,True,EMP0002,4.1,1,Master's,True
+EMP0043,George,Nelson,George Nelson,george.nelson@company.com,+1-461-264-7573,Customer Service,Project Manager,81209,2025-07-04,San Jose,NY,74033,True,EMP0004,4.7,2,PhD,False
+EMP0044,Mark,Smith,Mark Smith,mark.smith@company.com,+1-466-829-6789,Administration,HR Specialist,54240,2022-04-28,Dallas,MD,54869,True,EMP0007,3.9,12,Bachelor's,False
+EMP0045,Rachel,Mitchell,Rachel Mitchell,rachel.mitchell@company.com,+1-276-899-9207,Customer Service,Marketing Coordinator,39728,2021-07-16,Philadelphia,MI,22471,True,EMP0001,3.4,8,PhD,True
+EMP0046,Deborah,Sanchez,Deborah Sanchez,deborah.sanchez@company.com,+1-658-427-1128,Operations,Accountant,92992,2024-11-26,Memphis,PA,12063,True,EMP0002,4.5,1,Bachelor's,False
+EMP0047,Sandra,Campbell,Sandra Campbell,sandra.campbell@company.com,+1-878-633-6804,Customer Service,Administrative Assistant,139791,2024-07-25,Jacksonville,IN,65900,True,EMP0004,2.7,15,Master's,True
+EMP0048,Emily,Young,Emily Young,emily.young@company.com,+1-955-549-5156,Information Technology,Customer Support Specialist,57109,2024-02-08,Austin,PA,12453,True,EMP0002,3.0,7,High School,True
+EMP0049,Ruth,Campbell,Ruth Campbell,ruth.campbell@company.com,+1-237-611-2544,Customer Service,Software Engineer,40318,2024-06-28,San Diego,GA,18769,True,EMP0003,2.6,4,Master's,True
+EMP0050,James,Nelson,James Nelson,james.nelson@company.com,+1-730-994-1195,Operations,Data Analyst,43625,2020-08-27,Fresno,CA,87691,False,EMP0009,4.0,3,Master's,True
